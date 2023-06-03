@@ -1,6 +1,6 @@
 <!-- INTRO -->
 <div align="center">
-  <img src="https://github.com/hutoonalomran/img/blob/main/imgs/code.jpg" width="75%" style="max-width: 100%;">
+ <!-- <img src="https://github.com/hutoonalomran/img/blob/main/imgs/code.jpg" width="75%" style="max-width: 100%;"> -->
   <h1>Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hutoon</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2BC2FFFF&background=52525200&center=true&vCenter=true&width=435&lines=Hello+There!+I+am+a+..;%3CWeb+Developer%2F%3E;%3CUX+%7C+UI+Designer%2F%3E;%3CData+Scientist%2F%3E" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <div>
-  <img align="right" src="https://github.com/hutoonalomran/img/blob/main/imgs/cat.gif" width="200">
+  <img align="right" src="https://github.com/hutoonalomran/img/blob/main/imgs/cat.gif" width="25%">
   <details>
     <summary>Table of Contents</summary>
     <ol>
