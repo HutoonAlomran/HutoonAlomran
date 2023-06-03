@@ -71,9 +71,3 @@
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </div>
-
-<div>
-  <a href="mailto:Hutoon9@gmail.com">
-    <img src="https://github.com/hutoonalomran/img/blob/main/imgs/gmail.png"  width = 48px />
-  </a>
-</div>
