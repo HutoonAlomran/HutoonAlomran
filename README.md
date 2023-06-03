@@ -3,24 +3,24 @@
  <img src="https://github.com/hutoonalomran/img/blob/main/imgs/had1.svg" width="100%" style="max-width: 100%;"> 
   <h1>Hi there, I'm Hutoon  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&background=52525200&center=true&vCenter=true&width=435&lines=I+am+a+.. %3CWeb+Developer%2F%3E;%3CUX+%7C+UI+Designer%2F%3E;%3CData+Scientist%2F%3E" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I+am+a+.. %3CWeb+Developer%2F%3E;%3CUX+%7C+UI+Designer%2F%3E;%3CData+Scientist%2F%3E" alt="Typing SVG" />
 	
   </a>
 
 </div>
 
 <br>
-<div>	
 
 ## <picture><img src = "https://github.com/hutoonalomran/img/blob/main/imgs/about.gif" width = 40px></picture> **Get to Know me**
-<picture> <img align="right" src="https://github.com/hutoonalomran/img/blob/main/imgs/cat.gif" max-width="100%"></picture>
-	<br>
+
+  <img src="https://github.com/hutoonalomran/img/blob/main/imgs/cat.gif" align="right" width = 130px>
+</div>
+	
 - 🏫 I'm a senior Information Technology student at King Saud University.
 - 📝 I'm currently learning NLP & Big Data.
 - 👯 I enjoy tackling complex problems and coming up with innovative solutions to challenges.
 - 📫 Reach me at Hutoon9@gmail.com
 
-</div>
 <br><br>
 
 
