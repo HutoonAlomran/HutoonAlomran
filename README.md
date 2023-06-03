@@ -1,7 +1,7 @@
 <!-- INTRO -->
 <div align="center">
  <img src="https://github.com/hutoonalomran/img/blob/main/imgs/had1.svg" width="100%" style="max-width: 100%;"> 
-  <h1>Hello there, I'm Hutoon  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  <h1>Hi there, I'm Hutoon  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&background=52525200&center=true&vCenter=true&width=435&lines=I+am+a+.. %3CWeb+Developer%2F%3E;%3CUX+%7C+UI+Designer%2F%3E;%3CData+Scientist%2F%3E" alt="Typing SVG" />
 	
