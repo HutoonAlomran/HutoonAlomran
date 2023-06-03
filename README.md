@@ -1,20 +1,79 @@
-<h1 align="center">Hi 👋, I'm Hutoon</h1>
+<!-- INTRO -->
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , I'm Hutoon</h1>
 <h3 align="center">A passionate Software developer from Saudi Arabia</h3>
 
-- 🔭 I’m currently working on [MASROOFI](https://masroofisa.com/)
 
-- 💬 Ask me about **PHP, UX|UI , DATA SCIENCE**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alomranhutoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alomranhutoon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ hutoon-alomran-94a4aa192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ hutoon-alomran-94a4aa192" height="30" width="40" /></a>
-<a href="https://www.behance.net/hutoonalomran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hutoonalomran" height="30" width="40" /></a>
+<p>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+IT+Student;<UX|UI+Designer/>;<Web+Developer/>;<Data+Scientist/>;" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#-get-to-know-me">Get to Know me</a>
+    </li>
+    <li>
+      <a href="#-my-skills">My Skills</a>
+    </li>
+    <li>
+      <a href="#-my-github-progress">My Github Progres</a>
+	<ul>
+	    <li>
+	       <a href="#github-profile-stats">GitHub Profile Stats</a>
+	    </li>
+	    <li>
+	       <a href="#github-profile-trophy">GitHub Profile Trophy</a>
+	    </li>
+	</ul>	
+    </li>
+    <li>
+      <a href="#-lets-connect">Let's Connect!</a>
+    </li>
+  </ol>
+</details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hutoonalomran&show_icons=true&locale=en" alt="hutoonalomran" /></p>
+<!-- get to know me -->
+## <picture><img src = "https://github.com/hutoonalomran/img/blob/main/imgs/about.gif" width = 40px></picture> **Get to Know me**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hutoonalomran&" alt="hutoonalomran" /></p>
+- 🏫 I'm a senior Information Technology student at King Saud University.
+- 📝 I'm currently learning NLP & Big Data.
+- 👯 I enjoy tackling complex problems and coming up with innovative solutions to challenges.
+- 📫 Reach me at Hutoon9@gmail.com
+
+<!-- skills -->
+## <picture><img src = "https://github.com/hutoonalomran/img/blob/main/imgs/skills.gif" width = 50px></picture> **My Skills**
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,mysql,python,r,java,vscode,github,git,figma,idea&perline=9)](https://skillicons.dev)
+
+<!-- my github progress -->
+## <picture><img src = "https://github.com/hutoonalomran/img/blob/main/imgs/progress.gif" width = 50px></picture> **My Github Progress**
+
+- <h3>💻GitHub Profile Stats</h3>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+	 <img alt="Hutoon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hutoonalomran&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hutoonalomran&langs_count=5&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+</p>
+
+----
+
+<!-- let's connect! -->
+## <picture><img src = "https://github.com/hutoonalomran/img/blob/main/imgs/contact.gif" width = 70px></picture> **Let's Connect!**
+
+<picture> <img align="right" src="https://github.com/hutoonalomran/img/blob/main/imgs/contact2.gif" width = 300px></picture>
+<div>
+  <a href="https://www.linkedin.com/in/hutoon-alomran-94a4aa192/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+	
+  <a href="https://twitter.com/AlomranHutoon" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</div>
+
+<div>
+  <a href="mailto:Hutoon9@gmail.com">
+    <img src="https://github.com/hutoonalomran/img/blob/main/imgs/gmail.png"  width = 48px />
+  </a>
+</div>
