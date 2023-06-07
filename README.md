@@ -12,8 +12,6 @@
 <br>
 
 ## <picture><img src = "https://github.com/hutoonalomran/img/blob/main/imgs/about.gif" width = 40px></picture> **Get to Know me**
-
-  <img src="https://github.com/hutoonalomran/img/blob/main/imgs/cat.gif" align="right" width = 130px>
 </div>
 	
 - 🏫 I'm a senior Information Technology student at King Saud University.
