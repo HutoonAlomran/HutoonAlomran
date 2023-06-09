@@ -11,7 +11,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/hutoonalomran/img/blob/main/imgs/about.gif" width = 40px></picture> **Get to Know me**
+## **Get to Know me**
 </div>
 	
 - 🏫 I'm a senior Information Technology student at King Saud University.
@@ -23,7 +23,7 @@
 
 
 <!-- skills -->
-## <picture><img src = "https://github.com/hutoonalomran/img/blob/main/imgs/skills.gif" width = 50px></picture> **My Skills**
+## **My Skills**
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,mysql,python,r,java,vscode,github,git,figma,idea&perline=15)](https://skillicons.dev)
 <br>
 <!-- my github progress -->
@@ -38,7 +38,7 @@
 <br>
 
 <!-- let's connect! -->
-## <picture><img src = "https://github.com/hutoonalomran/img/blob/main/imgs/contact.gif" width = 70px></picture> **Let's Connect!**
+## **Let's Connect!**
 <div>
 	
   <a href="https://www.linkedin.com/in/hutoon-alomran-94a4aa192/">
