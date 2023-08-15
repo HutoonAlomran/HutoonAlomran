@@ -15,7 +15,7 @@
 </div>
 	
 - 🏫 I'm a senior Information Technology student at King Saud University.
-- 📝 I'm currently learning mobile application development using Flutter, and DevOps tools such as Git, Ant, JUnit, Docker, Kubernetes, and Jenkins.
+- 📝 I'm currently learning Software application development using Flutter, Spring Boot, and the practices of DevOps.
 - 👯 I enjoy tackling complex problems and coming up with innovative solutions to challenges.
 - 📫 Reach me at Hutoon9@gmail.com
 
